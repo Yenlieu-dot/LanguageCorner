@@ -1,0 +1,61 @@
+{
+  "lang": "en",
+  "name": "Tiếng Anh",
+  "flag": "🇬🇧",
+  "speech": "en-US",
+  "color": "#2f6bff",
+  "mascot": {
+    "emoji": "🦊",
+    "name": "Foxy",
+    "hello": ["Hello! Hôm nay học gì nào?", "Sẵn sàng chưa? Let’s go!", "Mỗi ngày một chút là giỏi liền!"],
+    "cheers": ["Tuyệt vời!", "Chuẩn luôn!", "Giỏi lắm!", "Yay! Đúng rồi!", "Cứ thế phát huy nhé!"],
+    "oops": ["Không sao, lần sau sẽ nhớ!", "Gần đúng rồi đó!", "Sai một lần, nhớ lâu hơn mà!", "Cố lên nào!"]
+  },
+  "lessons": [
+    {
+      "id": "greetings",
+      "title": "Chào hỏi",
+      "icon": "👋",
+      "words": [
+        { "term": "Hello", "meaning": "Xin chào", "example": "Hello, how are you?" },
+        { "term": "Good morning", "meaning": "Chào buổi sáng", "example": "Good morning! Did you sleep well?" },
+        { "term": "Goodbye", "meaning": "Tạm biệt", "example": "Goodbye, see you tomorrow!" },
+        { "term": "Thank you", "meaning": "Cảm ơn", "example": "Thank you for your help." },
+        { "term": "Please", "meaning": "Làm ơn", "example": "Please sit down." },
+        { "term": "Sorry", "meaning": "Xin lỗi", "example": "Sorry, I’m late." },
+        { "term": "Nice to meet you", "meaning": "Rất vui được gặp bạn", "example": "Nice to meet you, I’m Lan." },
+        { "term": "See you later", "meaning": "Hẹn gặp lại", "example": "I have to go now. See you later!" }
+      ]
+    },
+    {
+      "id": "food",
+      "title": "Đồ ăn thức uống",
+      "icon": "🍜",
+      "words": [
+        { "term": "Water", "meaning": "Nước", "example": "Can I have a glass of water?" },
+        { "term": "Rice", "meaning": "Cơm / gạo", "example": "We eat rice every day." },
+        { "term": "Bread", "meaning": "Bánh mì", "example": "I like bread with butter." },
+        { "term": "Coffee", "meaning": "Cà phê", "example": "She drinks coffee in the morning." },
+        { "term": "Apple", "meaning": "Quả táo", "example": "An apple a day keeps the doctor away." },
+        { "term": "Chicken", "meaning": "Thịt gà", "example": "We have chicken for dinner." },
+        { "term": "Hungry", "meaning": "Đói", "example": "I’m so hungry!" },
+        { "term": "Delicious", "meaning": "Ngon", "example": "This soup is delicious." }
+      ]
+    },
+    {
+      "id": "travel",
+      "title": "Du lịch",
+      "icon": "✈️",
+      "words": [
+        { "term": "Airport", "meaning": "Sân bay", "example": "We arrive at the airport at six." },
+        { "term": "Ticket", "meaning": "Vé", "example": "I bought two tickets." },
+        { "term": "Hotel", "meaning": "Khách sạn", "example": "Our hotel is near the beach." },
+        { "term": "Map", "meaning": "Bản đồ", "example": "Let’s look at the map." },
+        { "term": "Station", "meaning": "Nhà ga", "example": "The station is five minutes away." },
+        { "term": "Passport", "meaning": "Hộ chiếu", "example": "Don’t forget your passport." },
+        { "term": "Luggage", "meaning": "Hành lý", "example": "My luggage is very heavy." },
+        { "term": "Taxi", "meaning": "Xe taxi", "example": "Let’s take a taxi." }
+      ]
+    }
+  ]
+}
