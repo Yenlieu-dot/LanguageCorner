@@ -1,0 +1,607 @@
+{
+  "lang": "en",
+  "name": "Tiếng Anh",
+  "flag": "🇬🇧",
+  "speech": "en-US",
+  "color": "#2f6bff",
+  "mascot": {
+    "emoji": "🦊",
+    "name": "Foxy",
+    "hello": [
+      "Hello! Hôm nay học gì nào?",
+      "Sẵn sàng chưa? Let’s go!",
+      "Mỗi ngày một chút là giỏi liền!"
+    ],
+    "cheers": [
+      "Tuyệt vời!",
+      "Chuẩn luôn!",
+      "Giỏi lắm!",
+      "Yay! Đúng rồi!",
+      "Cứ thế phát huy nhé!"
+    ],
+    "oops": [
+      "Không sao, lần sau sẽ nhớ!",
+      "Gần đúng rồi đó!",
+      "Sai một lần, nhớ lâu hơn mà!",
+      "Cố lên nào!"
+    ]
+  },
+  "lessons": [
+    {
+      "id": "greetings",
+      "title": "Chào hỏi",
+      "icon": "👋",
+      "words": [
+        {
+          "term": "Hello",
+          "meaning": "Xin chào",
+          "example": "Hello, how are you?"
+        },
+        {
+          "term": "Good morning",
+          "meaning": "Chào buổi sáng",
+          "example": "Good morning! Did you sleep well?"
+        },
+        {
+          "term": "Goodbye",
+          "meaning": "Tạm biệt",
+          "example": "Goodbye, see you tomorrow!"
+        },
+        {
+          "term": "Thank you",
+          "meaning": "Cảm ơn",
+          "example": "Thank you for your help."
+        },
+        {
+          "term": "Please",
+          "meaning": "Làm ơn",
+          "example": "Please sit down."
+        },
+        {
+          "term": "Sorry",
+          "meaning": "Xin lỗi",
+          "example": "Sorry, I’m late."
+        },
+        {
+          "term": "Nice to meet you",
+          "meaning": "Rất vui được gặp bạn",
+          "example": "Nice to meet you, I’m Lan."
+        },
+        {
+          "term": "See you later",
+          "meaning": "Hẹn gặp lại",
+          "example": "I have to go now. See you later!"
+        }
+      ],
+      "level": "A1"
+    },
+    {
+      "id": "food",
+      "title": "Đồ ăn thức uống",
+      "icon": "🍜",
+      "words": [
+        {
+          "term": "Water",
+          "meaning": "Nước",
+          "example": "Can I have a glass of water?"
+        },
+        {
+          "term": "Rice",
+          "meaning": "Cơm / gạo",
+          "example": "We eat rice every day."
+        },
+        {
+          "term": "Bread",
+          "meaning": "Bánh mì",
+          "example": "I like bread with butter."
+        },
+        {
+          "term": "Coffee",
+          "meaning": "Cà phê",
+          "example": "She drinks coffee in the morning."
+        },
+        {
+          "term": "Apple",
+          "meaning": "Quả táo",
+          "example": "An apple a day keeps the doctor away."
+        },
+        {
+          "term": "Chicken",
+          "meaning": "Thịt gà",
+          "example": "We have chicken for dinner."
+        },
+        {
+          "term": "Hungry",
+          "meaning": "Đói",
+          "example": "I’m so hungry!"
+        },
+        {
+          "term": "Delicious",
+          "meaning": "Ngon",
+          "example": "This soup is delicious."
+        }
+      ],
+      "level": "A1"
+    },
+    {
+      "id": "travel",
+      "title": "Du lịch",
+      "icon": "✈️",
+      "words": [
+        {
+          "term": "Airport",
+          "meaning": "Sân bay",
+          "example": "We arrive at the airport at six."
+        },
+        {
+          "term": "Ticket",
+          "meaning": "Vé",
+          "example": "I bought two tickets."
+        },
+        {
+          "term": "Hotel",
+          "meaning": "Khách sạn",
+          "example": "Our hotel is near the beach."
+        },
+        {
+          "term": "Map",
+          "meaning": "Bản đồ",
+          "example": "Let’s look at the map."
+        },
+        {
+          "term": "Station",
+          "meaning": "Nhà ga",
+          "example": "The station is five minutes away."
+        },
+        {
+          "term": "Passport",
+          "meaning": "Hộ chiếu",
+          "example": "Don’t forget your passport."
+        },
+        {
+          "term": "Luggage",
+          "meaning": "Hành lý",
+          "example": "My luggage is very heavy."
+        },
+        {
+          "term": "Taxi",
+          "meaning": "Xe taxi",
+          "example": "Let’s take a taxi."
+        }
+      ],
+      "level": "A1"
+    },
+    {
+      "id": "daily",
+      "title": "Sinh hoạt hằng ngày",
+      "icon": "🏠",
+      "level": "A2",
+      "words": [
+        {
+          "term": "Wake up",
+          "meaning": "Thức dậy",
+          "example": "I wake up at six every day."
+        },
+        {
+          "term": "Neighbor",
+          "meaning": "Hàng xóm",
+          "example": "My neighbor is very friendly."
+        },
+        {
+          "term": "Appointment",
+          "meaning": "Cuộc hẹn",
+          "example": "I have an appointment at three."
+        },
+        {
+          "term": "Borrow",
+          "meaning": "Mượn",
+          "example": "Can I borrow your pen?"
+        },
+        {
+          "term": "Schedule",
+          "meaning": "Lịch trình",
+          "example": "My schedule is full today."
+        },
+        {
+          "term": "Invite",
+          "meaning": "Mời",
+          "example": "We invite friends to dinner."
+        },
+        {
+          "term": "Prepare",
+          "meaning": "Chuẩn bị",
+          "example": "Please prepare the documents."
+        },
+        {
+          "term": "Commute",
+          "meaning": "Đi lại hằng ngày (đến chỗ làm/học)",
+          "example": "My commute takes an hour."
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Sức khỏe",
+      "icon": "💊",
+      "level": "A2",
+      "words": [
+        {
+          "term": "Headache",
+          "meaning": "Đau đầu",
+          "example": "I have a terrible headache."
+        },
+        {
+          "term": "Medicine",
+          "meaning": "Thuốc",
+          "example": "Take this medicine twice a day."
+        },
+        {
+          "term": "Exercise",
+          "meaning": "Tập thể dục",
+          "example": "Exercise keeps you healthy."
+        },
+        {
+          "term": "Healthy",
+          "meaning": "Khỏe mạnh",
+          "example": "Fruit is healthy food."
+        },
+        {
+          "term": "Tired",
+          "meaning": "Mệt mỏi",
+          "example": "I feel tired after work."
+        },
+        {
+          "term": "Fever",
+          "meaning": "Sốt",
+          "example": "The child has a high fever."
+        },
+        {
+          "term": "Injury",
+          "meaning": "Chấn thương",
+          "example": "He missed the game with an injury."
+        },
+        {
+          "term": "Rest",
+          "meaning": "Nghỉ ngơi",
+          "example": "You need to rest more."
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "title": "Công việc",
+      "icon": "💼",
+      "level": "B1",
+      "words": [
+        {
+          "term": "Deadline",
+          "meaning": "Hạn chót",
+          "example": "We must meet the deadline on Friday."
+        },
+        {
+          "term": "Colleague",
+          "meaning": "Đồng nghiệp",
+          "example": "My colleague helped me with the report."
+        },
+        {
+          "term": "Salary",
+          "meaning": "Lương",
+          "example": "The salary is paid monthly."
+        },
+        {
+          "term": "Interview",
+          "meaning": "Phỏng vấn",
+          "example": "I have a job interview tomorrow."
+        },
+        {
+          "term": "Experience",
+          "meaning": "Kinh nghiệm",
+          "example": "She has five years of experience."
+        },
+        {
+          "term": "Apply for",
+          "meaning": "Ứng tuyển",
+          "example": "He decided to apply for the position."
+        },
+        {
+          "term": "Promotion",
+          "meaning": "Thăng chức",
+          "example": "She got a promotion last year."
+        },
+        {
+          "term": "Manage",
+          "meaning": "Quản lý / xoay xở",
+          "example": "I can manage this project alone."
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "title": "Bày tỏ ý kiến",
+      "icon": "💬",
+      "level": "B1",
+      "words": [
+        {
+          "term": "Agree",
+          "meaning": "Đồng ý",
+          "example": "I agree with you completely."
+        },
+        {
+          "term": "Disagree",
+          "meaning": "Không đồng ý",
+          "example": "I disagree with that idea."
+        },
+        {
+          "term": "Suggest",
+          "meaning": "Đề xuất",
+          "example": "I suggest we leave early."
+        },
+        {
+          "term": "Opinion",
+          "meaning": "Ý kiến",
+          "example": "In my opinion, it is a good plan."
+        },
+        {
+          "term": "Advantage",
+          "meaning": "Ưu điểm",
+          "example": "The main advantage is the low price."
+        },
+        {
+          "term": "Disadvantage",
+          "meaning": "Nhược điểm",
+          "example": "One disadvantage is the long distance."
+        },
+        {
+          "term": "Probably",
+          "meaning": "Có lẽ / nhiều khả năng",
+          "example": "It will probably rain tomorrow."
+        },
+        {
+          "term": "Especially",
+          "meaning": "Đặc biệt là",
+          "example": "I love fruit, especially mangoes."
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Công nghệ & xã hội",
+      "icon": "💻",
+      "level": "B2",
+      "words": [
+        {
+          "term": "Innovation",
+          "meaning": "Sự đổi mới",
+          "example": "Innovation drives economic growth."
+        },
+        {
+          "term": "Privacy",
+          "meaning": "Quyền riêng tư",
+          "example": "Online privacy is a growing concern."
+        },
+        {
+          "term": "Reliable",
+          "meaning": "Đáng tin cậy",
+          "example": "This app is fast and reliable."
+        },
+        {
+          "term": "Addicted",
+          "meaning": "Nghiện",
+          "example": "Many teenagers are addicted to their phones."
+        },
+        {
+          "term": "Convenient",
+          "meaning": "Tiện lợi",
+          "example": "Online shopping is very convenient."
+        },
+        {
+          "term": "Digital",
+          "meaning": "Kỹ thuật số",
+          "example": "We live in a digital age."
+        },
+        {
+          "term": "Access",
+          "meaning": "Tiếp cận / quyền truy cập",
+          "example": "Everyone should have access to education."
+        },
+        {
+          "term": "Replace",
+          "meaning": "Thay thế",
+          "example": "Robots may replace some workers."
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "title": "Môi trường",
+      "icon": "🌿",
+      "level": "B2",
+      "words": [
+        {
+          "term": "Pollution",
+          "meaning": "Ô nhiễm",
+          "example": "Air pollution harms our health."
+        },
+        {
+          "term": "Sustainable",
+          "meaning": "Bền vững",
+          "example": "We need sustainable energy sources."
+        },
+        {
+          "term": "Climate change",
+          "meaning": "Biến đổi khí hậu",
+          "example": "Climate change affects every country."
+        },
+        {
+          "term": "Renewable",
+          "meaning": "Có thể tái tạo",
+          "example": "Solar power is a renewable resource."
+        },
+        {
+          "term": "Waste",
+          "meaning": "Rác thải / sự lãng phí",
+          "example": "We produce too much plastic waste."
+        },
+        {
+          "term": "Recycle",
+          "meaning": "Tái chế",
+          "example": "Please recycle these bottles."
+        },
+        {
+          "term": "Endangered",
+          "meaning": "Có nguy cơ tuyệt chủng",
+          "example": "The tiger is an endangered species."
+        },
+        {
+          "term": "Conservation",
+          "meaning": "Bảo tồn",
+          "example": "Wildlife conservation needs more funding."
+        }
+      ]
+    },
+    {
+      "id": "academic",
+      "title": "Từ học thuật",
+      "icon": "🎓",
+      "level": "C1",
+      "words": [
+        {
+          "term": "Significant",
+          "meaning": "Đáng kể, quan trọng",
+          "example": "There was a significant increase in sales."
+        },
+        {
+          "term": "Contribute",
+          "meaning": "Đóng góp / góp phần",
+          "example": "Cars contribute to air pollution."
+        },
+        {
+          "term": "Evidence",
+          "meaning": "Bằng chứng",
+          "example": "There is strong evidence for this theory."
+        },
+        {
+          "term": "Establish",
+          "meaning": "Thiết lập",
+          "example": "The school was established in 1950."
+        },
+        {
+          "term": "Predominantly",
+          "meaning": "Chủ yếu",
+          "example": "The audience was predominantly young."
+        },
+        {
+          "term": "Hypothesis",
+          "meaning": "Giả thuyết",
+          "example": "The experiment tested the hypothesis."
+        },
+        {
+          "term": "Fluctuate",
+          "meaning": "Dao động",
+          "example": "Prices fluctuate throughout the year."
+        },
+        {
+          "term": "Indicate",
+          "meaning": "Chỉ ra / cho thấy",
+          "example": "The data indicate a clear trend."
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "title": "Xã hội & chính sách",
+      "icon": "🏛️",
+      "level": "C1",
+      "words": [
+        {
+          "term": "Inequality",
+          "meaning": "Bất bình đẳng",
+          "example": "Income inequality is rising."
+        },
+        {
+          "term": "Legislation",
+          "meaning": "Pháp luật, đạo luật",
+          "example": "New legislation protects workers."
+        },
+        {
+          "term": "Mitigate",
+          "meaning": "Giảm nhẹ",
+          "example": "Trees help mitigate the effects of heat."
+        },
+        {
+          "term": "Prevalent",
+          "meaning": "Phổ biến, thịnh hành",
+          "example": "Obesity is increasingly prevalent in cities."
+        },
+        {
+          "term": "Unprecedented",
+          "meaning": "Chưa từng có",
+          "example": "The pandemic caused unprecedented change."
+        },
+        {
+          "term": "Advocate",
+          "meaning": "Ủng hộ",
+          "example": "Many experts advocate shorter working hours."
+        },
+        {
+          "term": "Controversial",
+          "meaning": "Gây tranh cãi",
+          "example": "The policy is highly controversial."
+        },
+        {
+          "term": "Implement",
+          "meaning": "Thực hiện, triển khai",
+          "example": "The government will implement the plan next year."
+        }
+      ]
+    },
+    {
+      "id": "abstract",
+      "title": "Diễn đạt nâng cao",
+      "icon": "✨",
+      "level": "C1",
+      "words": [
+        {
+          "term": "Exacerbate",
+          "meaning": "Làm trầm trọng thêm",
+          "example": "Stress can exacerbate health problems."
+        },
+        {
+          "term": "Detrimental",
+          "meaning": "Gây hại",
+          "example": "Lack of sleep is detrimental to learning."
+        },
+        {
+          "term": "Compelling",
+          "meaning": "Thuyết phục, hấp dẫn",
+          "example": "She made a compelling argument."
+        },
+        {
+          "term": "Alleviate",
+          "meaning": "Làm dịu, giảm bớt",
+          "example": "New roads may alleviate traffic congestion."
+        },
+        {
+          "term": "Ubiquitous",
+          "meaning": "Có mặt khắp nơi",
+          "example": "Smartphones are ubiquitous today."
+        },
+        {
+          "term": "Inevitable",
+          "meaning": "Không thể tránh khỏi",
+          "example": "Change is inevitable."
+        },
+        {
+          "term": "Undermine",
+          "meaning": "Làm suy yếu",
+          "example": "Corruption can undermine public trust."
+        },
+        {
+          "term": "Ambiguous",
+          "meaning": "Mơ hồ, nhập nhằng",
+          "example": "The instructions were ambiguous."
+        }
+      ]
+    }
+  ]
+}
