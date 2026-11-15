@@ -136,7 +136,7 @@
         {
           "term": "Ticket",
           "meaning": "Vé",
-          "example": "I bought two tickets."
+          "example": "I need to buy a ticket."
         },
         {
           "term": "Hotel",
@@ -483,7 +483,7 @@
         {
           "term": "Establish",
           "meaning": "Thiết lập",
-          "example": "The school was established in 1950."
+          "example": "They plan to establish a new school."
         },
         {
           "term": "Predominantly",
@@ -2088,6 +2088,678 @@
           "term": "Welfare",
           "meaning": "Phúc lợi xã hội",
           "example": "The state provides welfare for the poor."
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Số đếm",
+      "icon": "🔢",
+      "level": "A1",
+      "words": [
+        {
+          "term": "One",
+          "meaning": "Một",
+          "example": "I have one brother."
+        },
+        {
+          "term": "Two",
+          "meaning": "Hai",
+          "example": "I have two cats."
+        },
+        {
+          "term": "Three",
+          "meaning": "Ba",
+          "example": "There are three apples."
+        },
+        {
+          "term": "Five",
+          "meaning": "Năm",
+          "example": "She is five years old."
+        },
+        {
+          "term": "Ten",
+          "meaning": "Mười",
+          "example": "It costs ten dollars."
+        },
+        {
+          "term": "Twenty",
+          "meaning": "Hai mươi",
+          "example": "He is twenty years old."
+        },
+        {
+          "term": "Hundred",
+          "meaning": "Một trăm",
+          "example": "A hundred people came."
+        },
+        {
+          "term": "Thousand",
+          "meaning": "Một nghìn",
+          "example": "It costs a thousand dollars."
+        }
+      ]
+    },
+    {
+      "id": "colors",
+      "title": "Màu sắc",
+      "icon": "🎨",
+      "level": "A1",
+      "words": [
+        {
+          "term": "Red",
+          "meaning": "Đỏ",
+          "example": "She wears a red dress."
+        },
+        {
+          "term": "Blue",
+          "meaning": "Xanh dương",
+          "example": "The sky is blue."
+        },
+        {
+          "term": "Green",
+          "meaning": "Xanh lá",
+          "example": "Grass is green."
+        },
+        {
+          "term": "Yellow",
+          "meaning": "Vàng",
+          "example": "Bananas are yellow."
+        },
+        {
+          "term": "Black",
+          "meaning": "Đen",
+          "example": "He has a black cat."
+        },
+        {
+          "term": "White",
+          "meaning": "Trắng",
+          "example": "Snow is white."
+        },
+        {
+          "term": "Pink",
+          "meaning": "Hồng",
+          "example": "She likes pink flowers."
+        },
+        {
+          "term": "Brown",
+          "meaning": "Nâu",
+          "example": "I have brown eyes."
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "Bộ phận cơ thể",
+      "icon": "🧍",
+      "level": "A1",
+      "words": [
+        {
+          "term": "Head",
+          "meaning": "Đầu",
+          "example": "My head hurts."
+        },
+        {
+          "term": "Eye",
+          "meaning": "Mắt",
+          "example": "Something is in my eye."
+        },
+        {
+          "term": "Ear",
+          "meaning": "Tai",
+          "example": "She has a small ear."
+        },
+        {
+          "term": "Hand",
+          "meaning": "Bàn tay",
+          "example": "Wash your hand before eating."
+        },
+        {
+          "term": "Leg",
+          "meaning": "Chân",
+          "example": "He broke his leg."
+        },
+        {
+          "term": "Mouth",
+          "meaning": "Miệng",
+          "example": "Open your mouth wide."
+        },
+        {
+          "term": "Nose",
+          "meaning": "Mũi",
+          "example": "My nose is cold."
+        },
+        {
+          "term": "Arm",
+          "meaning": "Cánh tay",
+          "example": "She hurt her arm."
+        }
+      ]
+    },
+    {
+      "id": "jobs",
+      "title": "Nghề nghiệp",
+      "icon": "👷",
+      "level": "A1",
+      "words": [
+        {
+          "term": "Teacher",
+          "meaning": "Giáo viên",
+          "example": "My teacher is very kind."
+        },
+        {
+          "term": "Doctor",
+          "meaning": "Bác sĩ",
+          "example": "The doctor checked my throat."
+        },
+        {
+          "term": "Nurse",
+          "meaning": "Y tá",
+          "example": "The nurse gave me medicine."
+        },
+        {
+          "term": "Driver",
+          "meaning": "Tài xế",
+          "example": "The driver stopped the bus."
+        },
+        {
+          "term": "Farmer",
+          "meaning": "Nông dân",
+          "example": "The farmer grows rice."
+        },
+        {
+          "term": "Engineer",
+          "meaning": "Kỹ sư",
+          "example": "My father is an engineer."
+        },
+        {
+          "term": "Cook",
+          "meaning": "Đầu bếp",
+          "example": "The cook made soup."
+        },
+        {
+          "term": "Student",
+          "meaning": "Học sinh, sinh viên",
+          "example": "She is a university student."
+        }
+      ]
+    },
+    {
+      "id": "verbs",
+      "title": "Động từ cơ bản",
+      "icon": "🏃",
+      "level": "A1",
+      "words": [
+        {
+          "term": "Eat",
+          "meaning": "Ăn",
+          "example": "I eat rice every day."
+        },
+        {
+          "term": "Drink",
+          "meaning": "Uống",
+          "example": "Please drink more water."
+        },
+        {
+          "term": "Sleep",
+          "meaning": "Ngủ",
+          "example": "Babies sleep a lot."
+        },
+        {
+          "term": "Go",
+          "meaning": "Đi",
+          "example": "I go to school by bus."
+        },
+        {
+          "term": "Come",
+          "meaning": "Đến",
+          "example": "Please come to my party."
+        },
+        {
+          "term": "Read",
+          "meaning": "Đọc",
+          "example": "I read a book every night."
+        },
+        {
+          "term": "Write",
+          "meaning": "Viết",
+          "example": "I write emails at work."
+        },
+        {
+          "term": "Run",
+          "meaning": "Chạy",
+          "example": "I run in the park every morning."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Từ để hỏi",
+      "icon": "❓",
+      "level": "A1",
+      "words": [
+        {
+          "term": "What",
+          "meaning": "Cái gì",
+          "example": "What is your name?"
+        },
+        {
+          "term": "Where",
+          "meaning": "Ở đâu",
+          "example": "Where do you live?"
+        },
+        {
+          "term": "When",
+          "meaning": "Khi nào",
+          "example": "When does the class start?"
+        },
+        {
+          "term": "Who",
+          "meaning": "Ai",
+          "example": "Who is your teacher?"
+        },
+        {
+          "term": "Why",
+          "meaning": "Tại sao",
+          "example": "Why are you late?"
+        },
+        {
+          "term": "How",
+          "meaning": "Như thế nào",
+          "example": "How are you today?"
+        },
+        {
+          "term": "Which",
+          "meaning": "Cái nào",
+          "example": "Which color do you like?"
+        },
+        {
+          "term": "How much",
+          "meaning": "Bao nhiêu (tiền)",
+          "example": "How much is this bag?"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "title": "Động vật",
+      "icon": "🐶",
+      "level": "A1",
+      "words": [
+        {
+          "term": "Dog",
+          "meaning": "Chó",
+          "example": "The dog barks loudly."
+        },
+        {
+          "term": "Cat",
+          "meaning": "Mèo",
+          "example": "My cat sleeps all day."
+        },
+        {
+          "term": "Bird",
+          "meaning": "Chim",
+          "example": "A bird is singing."
+        },
+        {
+          "term": "Fish",
+          "meaning": "Cá",
+          "example": "We eat fish for dinner."
+        },
+        {
+          "term": "Horse",
+          "meaning": "Ngựa",
+          "example": "He rides a horse."
+        },
+        {
+          "term": "Cow",
+          "meaning": "Bò",
+          "example": "A cow gives milk."
+        },
+        {
+          "term": "Rabbit",
+          "meaning": "Thỏ",
+          "example": "The rabbit eats carrots."
+        },
+        {
+          "term": "Pig",
+          "meaning": "Lợn",
+          "example": "The pig is in the mud."
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Thời tiết & mùa",
+      "icon": "☀️",
+      "level": "A1",
+      "words": [
+        {
+          "term": "Sunny",
+          "meaning": "Nắng",
+          "example": "It is a sunny day."
+        },
+        {
+          "term": "Rainy",
+          "meaning": "Có mưa",
+          "example": "It is a rainy day."
+        },
+        {
+          "term": "Cloudy",
+          "meaning": "Nhiều mây",
+          "example": "The sky is cloudy."
+        },
+        {
+          "term": "Windy",
+          "meaning": "Có gió",
+          "example": "It is windy today."
+        },
+        {
+          "term": "Hot",
+          "meaning": "Nóng",
+          "example": "The soup is hot."
+        },
+        {
+          "term": "Cold",
+          "meaning": "Lạnh",
+          "example": "The water is cold."
+        },
+        {
+          "term": "Spring",
+          "meaning": "Mùa xuân",
+          "example": "Flowers bloom in spring."
+        },
+        {
+          "term": "Winter",
+          "meaning": "Mùa đông",
+          "example": "It snows in winter."
+        }
+      ]
+    },
+    {
+      "id": "adjectives",
+      "title": "Tính từ miêu tả",
+      "icon": "🙂",
+      "level": "A2",
+      "words": [
+        {
+          "term": "Beautiful",
+          "meaning": "Đẹp",
+          "example": "The garden is beautiful."
+        },
+        {
+          "term": "Tall",
+          "meaning": "Cao",
+          "example": "My brother is very tall."
+        },
+        {
+          "term": "Short",
+          "meaning": "Ngắn, thấp",
+          "example": "The film was short."
+        },
+        {
+          "term": "Heavy",
+          "meaning": "Nặng",
+          "example": "This bag is heavy."
+        },
+        {
+          "term": "Quiet",
+          "meaning": "Yên tĩnh",
+          "example": "The library is quiet."
+        },
+        {
+          "term": "Noisy",
+          "meaning": "Ồn ào",
+          "example": "The street is noisy at night."
+        },
+        {
+          "term": "Dangerous",
+          "meaning": "Nguy hiểm",
+          "example": "The road is dangerous."
+        },
+        {
+          "term": "Clean",
+          "meaning": "Sạch sẽ",
+          "example": "Please keep the room clean."
+        }
+      ]
+    },
+    {
+      "id": "clothes",
+      "title": "Quần áo",
+      "icon": "👕",
+      "level": "A2",
+      "words": [
+        {
+          "term": "Shirt",
+          "meaning": "Áo sơ mi",
+          "example": "He wears a white shirt."
+        },
+        {
+          "term": "Trousers",
+          "meaning": "Quần dài",
+          "example": "These trousers are too long."
+        },
+        {
+          "term": "Dress",
+          "meaning": "Váy liền",
+          "example": "She bought a new dress."
+        },
+        {
+          "term": "Shoes",
+          "meaning": "Giày",
+          "example": "My shoes are wet."
+        },
+        {
+          "term": "Jacket",
+          "meaning": "Áo khoác",
+          "example": "Take a jacket, it is cold."
+        },
+        {
+          "term": "Hat",
+          "meaning": "Mũ",
+          "example": "He wears a hat in summer."
+        },
+        {
+          "term": "Socks",
+          "meaning": "Tất, vớ",
+          "example": "I need warm socks."
+        },
+        {
+          "term": "Scarf",
+          "meaning": "Khăn quàng",
+          "example": "She wears a scarf in winter."
+        }
+      ]
+    },
+    {
+      "id": "prepos",
+      "title": "Giới từ chỉ vị trí",
+      "icon": "📍",
+      "level": "A2",
+      "words": [
+        {
+          "term": "Between",
+          "meaning": "Ở giữa",
+          "example": "The bank is between the school and the shop."
+        },
+        {
+          "term": "Behind",
+          "meaning": "Phía sau",
+          "example": "The cat is behind the door."
+        },
+        {
+          "term": "Next to",
+          "meaning": "Bên cạnh",
+          "example": "The shop is next to the bank."
+        },
+        {
+          "term": "In front of",
+          "meaning": "Phía trước",
+          "example": "He stood in front of the house."
+        },
+        {
+          "term": "Opposite",
+          "meaning": "Đối diện",
+          "example": "The park is opposite the station."
+        },
+        {
+          "term": "Under",
+          "meaning": "Bên dưới",
+          "example": "The ball is under the table."
+        },
+        {
+          "term": "Above",
+          "meaning": "Phía trên",
+          "example": "The picture is above the sofa."
+        },
+        {
+          "term": "Near",
+          "meaning": "Gần",
+          "example": "I live near the station."
+        }
+      ]
+    },
+    {
+      "id": "restaurant",
+      "title": "Nhà hàng",
+      "icon": "🍽️",
+      "level": "A2",
+      "words": [
+        {
+          "term": "Menu",
+          "meaning": "Thực đơn",
+          "example": "Can I see the menu, please?"
+        },
+        {
+          "term": "Order",
+          "meaning": "Gọi món",
+          "example": "I would like to order now."
+        },
+        {
+          "term": "Waiter",
+          "meaning": "Người phục vụ",
+          "example": "The waiter brought our drinks."
+        },
+        {
+          "term": "Bill",
+          "meaning": "Hóa đơn thanh toán",
+          "example": "Can we have the bill, please?"
+        },
+        {
+          "term": "Tip",
+          "meaning": "Tiền boa",
+          "example": "Leave a tip for the waiter."
+        },
+        {
+          "term": "Dessert",
+          "meaning": "Món tráng miệng",
+          "example": "We shared a dessert."
+        },
+        {
+          "term": "Reservation",
+          "meaning": "Đặt chỗ",
+          "example": "I made a reservation for two."
+        },
+        {
+          "term": "Spicy",
+          "meaning": "Cay",
+          "example": "This soup is too spicy."
+        }
+      ]
+    },
+    {
+      "id": "past",
+      "title": "Quá khứ bất quy tắc",
+      "icon": "🕰️",
+      "level": "A2",
+      "words": [
+        {
+          "term": "Went",
+          "meaning": "Đã đi (go → went)",
+          "example": "She went to the market."
+        },
+        {
+          "term": "Ate",
+          "meaning": "Đã ăn (eat → ate)",
+          "example": "I ate noodles for lunch."
+        },
+        {
+          "term": "Saw",
+          "meaning": "Đã thấy (see → saw)",
+          "example": "I saw a movie last night."
+        },
+        {
+          "term": "Bought",
+          "meaning": "Đã mua (buy → bought)",
+          "example": "He bought a new bike."
+        },
+        {
+          "term": "Took",
+          "meaning": "Đã lấy (take → took)",
+          "example": "They took a taxi."
+        },
+        {
+          "term": "Came",
+          "meaning": "Đã đến (come → came)",
+          "example": "He came home late."
+        },
+        {
+          "term": "Gave",
+          "meaning": "Đã đưa (give → gave)",
+          "example": "She gave me a gift."
+        },
+        {
+          "term": "Wrote",
+          "meaning": "Đã viết (write → wrote)",
+          "example": "I wrote a letter to her."
+        }
+      ]
+    },
+    {
+      "id": "tenses",
+      "title": "Các thì cơ bản",
+      "icon": "⏳",
+      "level": "A2",
+      "words": [
+        {
+          "term": "She works",
+          "meaning": "Hiện tại đơn: cô ấy làm việc",
+          "example": "She works in a hospital."
+        },
+        {
+          "term": "I am studying",
+          "meaning": "Hiện tại tiếp diễn: tôi đang học",
+          "example": "I am studying English now."
+        },
+        {
+          "term": "He was sleeping",
+          "meaning": "Quá khứ tiếp diễn: anh ấy đang ngủ",
+          "example": "He was sleeping when I called."
+        },
+        {
+          "term": "We have finished",
+          "meaning": "Hiện tại hoàn thành: chúng tôi đã xong",
+          "example": "We have finished our homework."
+        },
+        {
+          "term": "I will call you",
+          "meaning": "Tương lai: tôi sẽ gọi bạn",
+          "example": "I will call you tomorrow."
+        },
+        {
+          "term": "They are going to travel",
+          "meaning": "Dự định: họ sắp đi du lịch",
+          "example": "They are going to travel next week."
+        },
+        {
+          "term": "I used to live here",
+          "meaning": "Thói quen quá khứ: tôi từng sống ở đây",
+          "example": "I used to live here as a child."
+        },
+        {
+          "term": "Have you ever",
+          "meaning": "Bạn đã từng… chưa",
+          "example": "Have you ever been to Japan?"
         }
       ]
     }
